@@ -1,2 +1,2 @@
-# LA
-Linear Algebra Course - Assignment Problems
+# Linear Algebra 
+Course - Assignment Problems
